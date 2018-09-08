@@ -1,0 +1,102 @@
+﻿  functions.cpp
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\doublylinkedlistt.h(140): warning C4101: 'oneBefore': unreferenced local variable
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\doublylinkedlistt.h(139): note: while compiling class template member function 'bool DoublyLinkedListt<User>::insertAtBeginning(T)'
+          with
+          [
+              T=User
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functions.cpp(316): note: see reference to function template instantiation 'bool DoublyLinkedListt<User>::insertAtBeginning(T)' being compiled
+          with
+          [
+              T=User
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functions.cpp(62): note: see reference to class template instantiation 'DoublyLinkedListt<User>' being compiled
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\doublylinkedlistt.h(175): warning C4101: 'oneBefore': unreferenced local variable
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\doublylinkedlistt.h(174): note: while compiling class template member function 'bool DoublyLinkedListt<User>::insertAtEnd(T)'
+          with
+          [
+              T=User
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functions.cpp(270): note: see reference to function template instantiation 'bool DoublyLinkedListt<User>::insertAtEnd(T)' being compiled
+          with
+          [
+              T=User
+          ]
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(111): warning C4101: 'tmp': unreferenced local variable
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(110): note: while compiling class template member function 'bool LinkedList<User>::insertAtBeginning(T)'
+          with
+          [
+              T=User
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functions.cpp(456): note: see reference to function template instantiation 'bool LinkedList<User>::insertAtBeginning(T)' being compiled
+          with
+          [
+              T=User
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functions.cpp(110): note: see reference to class template instantiation 'LinkedList<User>' being compiled
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(111): warning C4101: 'oneBefore': unreferenced local variable
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(137): warning C4101: 'tmp': unreferenced local variable
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(136): note: while compiling class template member function 'bool LinkedList<User>::insertAtEnd(T)'
+          with
+          [
+              T=User
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functions.cpp(409): note: see reference to function template instantiation 'bool LinkedList<User>::insertAtEnd(T)' being compiled
+          with
+          [
+              T=User
+          ]
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(137): warning C4101: 'oneBefore': unreferenced local variable
+  functionss.cpp
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(111): warning C4101: 'tmp': unreferenced local variable
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(110): note: while compiling class template member function 'bool LinkedList<std::string>::insertAtBeginning(T)'
+          with
+          [
+              T=std::string
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functionss.cpp(310): note: see reference to function template instantiation 'bool LinkedList<std::string>::insertAtBeginning(T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functionss.cpp(253): note: see reference to class template instantiation 'LinkedList<std::string>' being compiled
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(111): warning C4101: 'oneBefore': unreferenced local variable
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(137): warning C4101: 'tmp': unreferenced local variable
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(136): note: while compiling class template member function 'bool LinkedList<std::string>::insertAtEnd(T)'
+          with
+          [
+              T=std::string
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functionss.cpp(400): note: see reference to function template instantiation 'bool LinkedList<std::string>::insertAtEnd(T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\linkedlist.h(137): warning C4101: 'oneBefore': unreferenced local variable
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\doublylinkedlistt.h(140): warning C4101: 'oneBefore': unreferenced local variable
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\doublylinkedlistt.h(139): note: while compiling class template member function 'bool DoublyLinkedListt<std::string>::insertAtBeginning(T)'
+          with
+          [
+              T=std::string
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functionss.cpp(579): note: see reference to function template instantiation 'bool DoublyLinkedListt<std::string>::insertAtBeginning(T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functionss.cpp(522): note: see reference to class template instantiation 'DoublyLinkedListt<std::string>' being compiled
+e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\doublylinkedlistt.h(175): warning C4101: 'oneBefore': unreferenced local variable
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\doublylinkedlistt.h(174): note: while compiling class template member function 'bool DoublyLinkedListt<std::string>::insertAtEnd(T)'
+          with
+          [
+              T=std::string
+          ]
+  e:\data structures and algorithms\pa5workingversion\pa5workingversion\pa5workingversion\functionss.cpp(669): note: see reference to function template instantiation 'bool DoublyLinkedListt<std::string>::insertAtEnd(T)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  pa5.cpp
+  timerSystem.cpp
+  Generating Code...
+  PA5WorkingVersion.vcxproj -> E:\Data Structures and Algorithms\PA5WorkingVersion\PA5WorkingVersion\Debug\PA5WorkingVersion.exe
